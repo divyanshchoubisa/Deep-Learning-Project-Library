@@ -1,0 +1,5 @@
+The data was downloaded from:
+https://www.kaggle.com/quantbruce/real-estate-price-prediction/data
+
+
+https://www.kaggle.com/camnugent/california-housing-prices
